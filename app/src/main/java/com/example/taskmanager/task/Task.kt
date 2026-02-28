@@ -1,4 +1,4 @@
-package task
+package com.example.taskmanager.task
 
 data class Task(
     val description: String,

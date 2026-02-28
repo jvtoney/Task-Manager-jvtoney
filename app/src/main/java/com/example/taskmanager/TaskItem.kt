@@ -14,7 +14,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.unit.dp
-import task.Task
+import com.example.taskmanager.task.Task
 
 @Composable
 fun TaskItem(
